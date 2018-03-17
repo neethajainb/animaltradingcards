@@ -1,0 +1,42 @@
+.card {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);		
+  text-align: justify;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 1.875rem;
+  text-align: left;
+  padding: 5px 0;
+}
+
+.card-picture {
+  width: 300px;
+  padding: 5px 0;
+}
+
+.card-description {
+	border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.card-intro {
+ font-style: italic;
+}
+
+.card-attributes {
+  list-style-type: none;
+  padding: 0;
+}
+
+.card-attributes-item {
+ font-weight: bold;
+ font-style: normal;
+}
+
+.card-details {
+
+}
